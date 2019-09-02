@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563208134 source:c:\c++\bankmanagement\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<stdio.h>
+	<sstream>
+
+1563205622 source:c:\c++\bankmanagement\test.cpp
+
